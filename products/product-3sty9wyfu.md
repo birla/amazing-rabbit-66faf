@@ -13,6 +13,7 @@ seo:
 layout: product
 category: category/bigplants.md
 default_thumbnail_image: images/plant6.jpg
+default_original_image: images/plant6-lg.jpg
 ---
 ## Lorem ipsum
 
