@@ -19,11 +19,6 @@
             "arrow": false
         },
         {
-            "title": "Store",
-            "url": "/store",
-            "style": "link"
-        },
-        {
             "title": "About",
             "url": "/about",
             "style": "link"
