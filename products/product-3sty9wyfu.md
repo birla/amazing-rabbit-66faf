@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Salad Mixed
+title: Salad Mix
 description: 'Salad mix for all '
 price: lorem-ipsum
 order: 0
