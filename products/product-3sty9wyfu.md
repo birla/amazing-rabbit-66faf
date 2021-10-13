@@ -12,6 +12,7 @@ seo:
   extra: []
 layout: product
 category: category/bigplants.md
+default_thumbnail_image: images/plant5.jpg
 ---
 ## Lorem ipsum
 
