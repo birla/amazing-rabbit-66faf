@@ -38,7 +38,7 @@ sections:
     title: Testimonials
     testimonials:
       - author:
-          name: Ramavtar
+          name: Ramavatar
           location: 'Jaipur, RAJ'
         text: >-
           I didn't know the Snipcart guys were into herbs as well! How beautiful
