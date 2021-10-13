@@ -13,6 +13,12 @@
     "palette": "green",
     "main_menu": [
         {
+            "title": "Pictures",
+            "url": "#",
+            "style": "primary",
+            "arrow": false
+        },
+        {
             "title": "Store",
             "url": "/store",
             "style": "link"
@@ -26,12 +32,6 @@
             "title": "FAQ",
             "url": "/faq",
             "style": "link"
-        },
-        {
-            "title": "Pictures",
-            "url": "#",
-            "style": "primary",
-            "arrow": false
         }
     ],
     "domain": "https://amazing-rabbit-66faf.netlify.app"
