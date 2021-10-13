@@ -45,7 +45,7 @@ sections:
           is that Planty theme. I'm going to launch a killer JAMstack e-commerce
           store using this for sure.
       - author:
-          name: 'Colonel '
+          name: Colonel Bhindra
           location: 'VA, USA'
         text: >-
           Well I'll be d*mned. These plants really ARE greener than any of my
