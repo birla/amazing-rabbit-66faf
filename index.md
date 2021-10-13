@@ -7,11 +7,12 @@ sections:
     section_id: hero_section
     background_image: images/header.jpg
     background_image_opacity: 65
-    content: >-
-      # Real, beautiful plants right to your door
+    content: >
+      # Fresh, hygienically grown sprouts and wheat flour
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+
+      Support local farmers by purchasing freshly grown sprouts and flour made
+      from select sprouted wheat.
     actions:
       - title: See all items
         url: /store
