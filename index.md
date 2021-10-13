@@ -46,7 +46,7 @@ sections:
           store using this for sure.
       - author:
           name: Colonel Bhindra
-          location: 'VA, USA'
+          location: 'Jaipur, Raj'
         text: >-
           Well I'll be d*mned. These plants really ARE greener than any of my
           recruits.
