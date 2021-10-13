@@ -4,7 +4,7 @@ title: Salad Mix
 description: Salad mix with all types of fresh sprouts
 price: '35'
 order: 0
-featured: false
+featured: true
 seo:
   title: ''
   description: ''
