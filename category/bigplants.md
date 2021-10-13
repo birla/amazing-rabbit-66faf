@@ -1,5 +1,5 @@
 ---
-title: fresh sprout
+title: fresh sprouts
 layout: category
 order: 1
 seo:
