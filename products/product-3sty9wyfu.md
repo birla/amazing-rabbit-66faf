@@ -1,7 +1,7 @@
 ---
 id: lorem-ipsum
 title: Salad Mix
-description: 'Salad mix for all '
+description: Salad mix with all types of fresh sproui
 price: lorem-ipsum
 order: 0
 featured: false
