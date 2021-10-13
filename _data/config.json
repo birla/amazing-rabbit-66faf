@@ -26,6 +26,12 @@
             "title": "FAQ",
             "url": "/faq",
             "style": "link"
+        },
+        {
+            "title": "lorem-ipsum",
+            "url": "#",
+            "style": "primary",
+            "arrow": false
         }
     ],
     "domain": "https://amazing-rabbit-66faf.netlify.app"
