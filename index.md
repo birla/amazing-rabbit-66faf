@@ -11,8 +11,8 @@ sections:
       # Fresh, hygienically grown sprouts and wheat flour
 
 
-      Support local farmers by purchasing freshly grown sprouts and flour made
-      from select sprouted wheat.
+      Made in Jaipur, our freshly grown sprouts and flour made from select
+      sprouted wheat is now available for purchase.
     actions:
       - title: See all items
         url: /store
