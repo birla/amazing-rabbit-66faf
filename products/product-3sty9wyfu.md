@@ -11,6 +11,7 @@ seo:
   robots: []
   extra: []
 layout: product
+category: category/bigplants.md
 ---
 ## Lorem ipsum
 
