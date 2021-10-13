@@ -28,11 +28,6 @@ sections:
       - products/plant3.md
       - products/plant5.md
       - products/plant7.md
-  - type: featured_categories_section
-    section_id: featured_categories_section
-    featured_categories:
-      - category/bigplants.md
-      - category/cactuses.md
   - type: testimonials_section
     section_id: testimonials_section
     title: Testimonials
