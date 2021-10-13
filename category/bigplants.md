@@ -1,5 +1,5 @@
 ---
-title: Big plants
+title: fresh sprout
 layout: category
 order: 1
 seo:
